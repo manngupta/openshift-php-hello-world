@@ -6,7 +6,7 @@
 
 <body>
 
-<?php echo "This is test box"; ?>
+<?php echo "Manish 1st Deployment on OpenTLC Infra"; ?>
 <?php if($_ENV["HOSTNAME"]) {?><h3>My hostname is <?php echo $_ENV["HOSTNAME"]; ?><br /><br />
 
 <?php $links = [];
