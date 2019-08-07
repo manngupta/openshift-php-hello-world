@@ -2,6 +2,7 @@
 
 <head>
 <title>SUCCESSFUL TESTING OF SOURCE CODE AND DOCKER IMAGE </title>
+<title>Manish Gupta </title>
 </head>
 
 <body>
